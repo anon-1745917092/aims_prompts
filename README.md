@@ -10,7 +10,7 @@ __Abstract:__
 
 ## Contents
 We share the code that produced our analyses in a jupyter notebook called `analysis.ipynb`.  
-The folder `plots/` contains the interactive visualizations generated using Plotly that available through [GitHub Pages](https://mister-magpie.github.io/aims_prompts/).
+The folder `plots/` contains the interactive visualizations generated using Plotly that available through [GitHub Pages](https://anon-1745917092.github.io/aims_prompts/).
 A version of these is also available on a private server (might be unreachble a times) [LINK](http://130.237.3.110:22330/).
 
 At the time of writing we do not plan to share the original collected data, nor the post-processed version, with the sole exception of the plots.  
